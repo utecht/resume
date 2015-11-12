@@ -6,7 +6,7 @@
         "phone": "(501) 548-8376",
         "summary": "Full stack developer currently working on Semantic Web technologies",
         "location": {
-            "address": "107 Pont du Gard Ct":
+            "address": "107 Pont du Gard Ct",
             "postalCode": "AR 72113",
             "city": "Maumelle",
             "countryCode": "US",
@@ -29,11 +29,11 @@
         ]
     }],
     "education": [{
-        "insitution": "Hendrix College",
+        "institution": "Hendrix College",
         "area": "Computer Science",
         "studyType": "Bachelor",
-        "startDate": "2005",
-        "endDate": "2009"
+        "startDate": "2005-07-01",
+        "endDate": "2009-05-01"
     }],
     "skills": [{
         "name": "Semantic Web",
@@ -52,3 +52,4 @@
         "name": "Video Game Development"
     }]
 }
+
