@@ -2,7 +2,6 @@
   "basics": {
     "name": "Joseph Utecht",
     "label": "Programmer",
-    "picture": "",
     "email": "joseph.utecht@gmail.com",
     "phone": "(501) 548-8376",
     "summary": "Description",
@@ -23,7 +22,7 @@
   },
   "work": [
     {
-      "company": "University of Arkansas for Medical Sciences, Department of Biomedical Informatics",
+      "company": "University of Arkansas for Medical Sciences",
       "position": "Applications System Analyst/Programmer",
       "website": "http://dbmi.uams.edu",
       "startDate": "2015-06-01",
@@ -31,6 +30,26 @@
       "highlights": [
         "Published poster to semantic web conference SWAT4LS"
       ]
+    },
+    {
+        "company": "Administative Office of the Courts",
+        "position": "Software Engineer",
+        "website": "http://courts.arkansas.gov",
+        "startDate": "2011-08-01",
+        "endDate": "2015-06-01",
+        "summary": "Developed Conversion Programs",
+        "highlights": [
+            "Relational Databases",
+            "Python",
+            "Data Conversion"
+        ]
+    },
+    {
+        "company": "Hewlett-Packard",
+        "position": "Inside Sales Specialist",
+        "startDate": "2009-10-01",
+        "endDate": "2011-08-01",
+        "summary": "Supported field sales in the Southeast with configuring and designing Unix server solution for large enterprise level accounts."
     }
   ],
   "education": [
