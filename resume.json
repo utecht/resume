@@ -1,0 +1,54 @@
+{
+    "basics": {
+        "name": "Joseph Utecht",
+        "label": "Programmer",
+        "email": "joseph.utecht@gmail.com",
+        "phone": "(501) 548-8376",
+        "summary": "Full stack developer currently working on Semantic Web technologies",
+        "location": {
+            "address": "107 Pont du Gard Ct":
+            "postalCode": "AR 72113",
+            "city": "Maumelle",
+            "countryCode": "US",
+            "region": "Arkansas"
+        },
+        "profiles": [{
+            "network": "Github",
+            "username": "utecht",
+            "url": "http://github.com/utecht"
+        }]
+    },
+    "work": [{
+        "company": "University of Arkansas for Medical Sciences, Biomedical Informatics Department",
+        "position": "Application Systems Analyst/Programmer",
+        "website": "http://dbmi.uams.edu/",
+        "startDate": "2015-06-01",
+        "summary": "Worked on CAFE",
+        "highlights": [
+            "Submitted Poster to SWAT4LS"
+        ]
+    }],
+    "education": [{
+        "insitution": "Hendrix College",
+        "area": "Computer Science",
+        "studyType": "Bachelor",
+        "startDate": "2005",
+        "endDate": "2009"
+    }],
+    "skills": [{
+        "name": "Semantic Web",
+        "level": "Intermediate",
+        "keywords": [
+            "RDF",
+            "Triple Stores",
+            "SPARQL"
+        ]
+    }],
+    "languages": [{
+        "language": "English",
+        "fluency": "Native speaker"
+    }],
+    "interests": [{
+        "name": "Video Game Development"
+    }]
+}
