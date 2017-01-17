@@ -70,6 +70,19 @@
       "endDate": "2009-05-01"
     }
   ],
+  "publications": [{
+      "name": "Measuring the Usability of Triple Stores for Knowledge Management on Trauma Care Organizations.",
+      "releaseDate": "2015",
+      "website": "http://ceur-ws.org/Vol-1546/poster_13.pdf"
+  },{
+      "name": "Easy Extraction of Terms and Definitions with OWL2TL",
+      "releaseDate": "2016",
+      "website": "http://ceur-ws.org/Vol-1747/D205_ICBO2016.pdf"
+  },{
+      "name": "OOSTT: a Resource for Analyzing the Organizational Structures of Trauma Centers and Trauma Systems",
+      "releaseDate": "2016",
+      "website": "http://ceur-ws.org/Vol-1747/IT504_ICBO2016.pdf"
+  }],
   "skills": [
     {
       "name": "Semantic Web",
