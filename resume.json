@@ -4,7 +4,7 @@
     "label": "Programmer",
     "email": "joseph.utecht@gmail.com",
     "phone": "(501) 548-8376",
-    "summary": "Description",
+    "summary": "I am a full stack developer with an interest in developing responsive cross-platform applications through the web.  In my work experience I have both worked on a team and single handedly to bring projects from concept through completion.  I enjoy tackling new problems and prototyping applications.  I am an avid follower of new technologies and spend much of my free time implementing them in hobby projects which I have posted on my Github page.",
     "location": {
       "address": "107 Pont du Gard Ct",
       "postalCode": "AR 72113",
@@ -26,22 +26,26 @@
       "position": "Applications System Analyst/Programmer",
       "website": "http://dbmi.uams.edu",
       "startDate": "2015-06-01",
-      "summary": "Worked on CAFE",
+      "summary": "Lead developer on a NIS funded grant to produce a web application to assist in the comparisons of organizational structures in trauma centers and systems.  The project required development of new tools for combining the popular web framework Angular 2 with an RDF triple store.",
       "highlights": [
-        "Published poster to semantic web conference SWAT4LS"
+        "Published research findings",
+        "Developed open source tools",
+        "Linux server administration",
+        "Ground up application development"
       ]
     },
     {
-        "company": "Administative Office of the Courts",
+        "company": "Administrative Office of the Courts",
         "position": "Software Engineer",
         "website": "http://courts.arkansas.gov",
         "startDate": "2011-08-01",
         "endDate": "2015-06-01",
-        "summary": "Developed Conversion Programs",
+        "summary": "Worked on small team supporting a state wide case management application.  Resolved issues with Oracle forms and reports, rewrote and developed complex SQL queries for various reporting needs.  Converted legacy court systems through individual conversion programs, while dealing with sensitive data.",
         "highlights": [
-            "Relational Databases",
-            "Python",
-            "Data Conversion"
+            "Oracle application stack",
+            "Reporting",
+            "Data conversion",
+            "Legacy application support"
         ]
     },
     {
@@ -49,7 +53,12 @@
         "position": "Inside Sales Specialist",
         "startDate": "2009-10-01",
         "endDate": "2011-08-01",
-        "summary": "Supported field sales in the Southeast with configuring and designing Unix server solution for large enterprise level accounts."
+        "summary": "Supported field sales in the Southeast with configuring and designing Unix server solutions for large enterprise level accounts.",
+        "highlights": [
+            "Hardware configuration",
+            "Sales",
+            "Client relationships"
+        ]
     }
   ],
   "education": [
@@ -66,19 +75,50 @@
       "name": "Semantic Web",
       "level": "Intermediate",
       "keywords": [
-        "RDF",
-        "Triple Stores",
-        "SPARQL"
+        "RDF file parsing and transfer",
+        "Triple Store deployment and configuration",
+        "SPARQL query writing and tuning"
       ]
     },
     {
-      "name": "Scripting",
+      "name": "Programming Languages",
       "level": "Advanced",
       "keywords": [
         "Python",
         "Ruby",
-        "Javascript"
+        "Javascript",
+        "Java",
+        "C#"
       ]
+    },
+    {
+        "name": "Relational Databases",
+        "level": "Advanced",
+        "keywords": [
+            "SQL writing, tuning and debugging",
+            "Oracle PL/SQL",
+            "Database administration",
+            "Oracle, MySQL/MariaDB, Postgress"
+        ]
+    },
+    {
+        "name": "Full Stack Web Development",
+        "level": "Advanced",
+        "keywords": [
+            "Django, Ruby on Rails and Flask frameworks",
+            "Front-end responsive design",
+            "Angular 2",
+            "REST development",
+            "API production/consumption"
+        ]
+    },
+    {
+        "name": "Systems Administration",
+        "level": "Intermediate",
+        "keywords": [
+            "Application deployment on linux",
+            "NGINX configuration"
+        ]
     }
   ],
   "languages": [
