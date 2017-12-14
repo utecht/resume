@@ -86,7 +86,7 @@
   "skills": [
     {
       "name": "Semantic Web",
-      "level": "Intermediate",
+      "level": "Advanced",
       "keywords": [
         "RDF file parsing and transfer",
         "Triple Store deployment and configuration",
