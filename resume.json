@@ -23,7 +23,7 @@
   "work": [
     {
       "company": "University of Arkansas for Medical Sciences",
-      "position": "Applications System Analyst/Programmer",
+      "position": "Senior Applications System Analyst/Programmer",
       "website": "http://dbmi.uams.edu",
       "startDate": "2015-06-01",
       "summary": "Lead developer on a NIS funded grant to produce a web application to assist in the comparisons of organizational structures in trauma centers and systems.  The project required development of new tools for combining the popular web framework Angular 2 with an RDF triple store.",
